@@ -1,1 +1,3 @@
-# uygulama1
+# Bu dosyada proje tanıtımı yapılır..
+
+Markdown formatı kullanılıyor..
